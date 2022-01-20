@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="driver">com.mysql.jdbc.Driver</entry>
+        <entry key="urlDB">jdbc:mysql://localhost:3306/school</entry>
+        <entry key="user_name">root</entry>
+        <entry key="password">root</entry>
+
+    <entry key="student">Data/students.xml</entry>
+</properties>

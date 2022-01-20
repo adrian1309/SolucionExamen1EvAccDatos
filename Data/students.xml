@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentXML>
+    <id>9</id>
+    <name>a3</name>
+    <subject>
+        <id>2</id>
+        <name>s2</name>
+        <grades>
+            <attempt>1</attempt>
+            <grade>3.0</grade>
+            <id>0</id>
+        </grades>
+        <grades>
+            <attempt>2</attempt>
+            <grade>6.0</grade>
+            <id>0</id>
+        </grades>
+    </subject>
+    <subject>
+        <id>4</id>
+        <name>s4</name>
+        <grades>
+            <attempt>1</attempt>
+            <grade>5.0</grade>
+            <id>0</id>
+        </grades>
+    </subject>
+</studentXML>
